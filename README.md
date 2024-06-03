@@ -10,7 +10,7 @@ Pour me présenter, je m'appelle Yacine, je suis actuellement étudiant en infor
 - 🌱 J'apprends en ce moment les sciences informatiques et plus spécifiquement le développement.
 - 🤔 Je suis ouvert à toute aide ou conseils concernant mes projets ou mon parcours.
 - 💬 N'hésitez pas à me poser des questions sur mes projets ou sur tout autre sujet.
-- 📫 Vous pouvez me contacter à l'adresse suivante : [![Email](https://img.shields.io/badge/Email-yacine.belabed.sio@gmail.com-blue)](mailto:email@example.com)
+- 📫 Vous pouvez me contacter à l'adresse suivante : [![Email](https://img.shields.io/badge/Email-yacine.belabed.sio@gmail.com-blue)](mailto:yacine.belabed.sio@gmail.com)
 - ⚡ Fun fact : Je suis passionné par l'intelligence artificielle et les nouvelles technologies.
 
 ---
