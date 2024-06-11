@@ -18,7 +18,7 @@ Pour me présenter, je m'appelle Yacine, je suis actuellement étudiant en infor
 ### 🛠️ Technologies et Outils
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)](https://github.com/YacineBld/Creation-SQL)
-[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)](https://github.com/YacineBld/Codes-Python))
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)](https://github.com/YacineBld/Codes-Python)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)](https://github.com/YacineBld/Creation-SQL)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)](https://github.com/YacineBld/Creation-SQL)
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)](https://github.com/YacineBld/Creation-SQL)
