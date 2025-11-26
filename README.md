@@ -69,11 +69,13 @@ Curieux · Rigoureux · Autonome · Esprit d’équipe · Pédagogue · Adaptabl
 
 - 🌐 **ETETI – Site web professionnel complet (HTML/CSS/JS)**  
   Site vitrine moderne créé durant mon stage, avec animations AOS, navigation responsive, pages société/activités/carrière/contact.    
-  🌍 *Démo GitHub Pages* : *github.com/YacineBld/ETETI-site*
+  🔗 *Repo* : *(https://github.com/YacineBld/ETETI-site)*
+  🌍 *Démo GitHub Pages* : *https://yacinebld.github.io/ETETI-site/*
 
 - 🖼️ **ARTEM – Site web d’une entreprise de transport d’œuvres d’art**  
   Site vitrine complet avec pages société, activités, contact, design moderne et animations.  
-  🌍 *Démo GitHub Pages* : *github.com/YacineBld/ARTEM-site*
+  🔗 *Repo* : *(https://github.com/YacineBld/ARTEM-site)*
+  🌍 *Démo GitHub Pages* : *https://yacinebld.github.io/ARTEM-site/*
 
 - 🌐 **Portfolio** – Présentation de mon parcours et de mes compétences  
   🔗 https://github.com/YacineBld/Portfolio
