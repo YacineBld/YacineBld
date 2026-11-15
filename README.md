@@ -1,7 +1,7 @@
 ## Salut, moi c’est Yacine 👋
 
 💻 Étudiant en **Informatique – Développement, IA & Big Data** (CNAM Paris / Lycée Le Rebours).  
-🎯 À la recherche d’une **alternance à partir de septembre 2025** dans la **Data** et l’**Intelligence Artificielle**.  
+🎯 À la recherche d’un **stage de 2 mois à partir d'avril 2027** dans la **Data**, l’**Intelligence Artificielle** ou le **Développement en général**.  
 
 Mon objectif : devenir un **développeur polyvalent** capable de travailler sur des projets innovants mêlant **développement, data et IA**.  
 Je partage ici mes projets personnels, scolaires et professionnels.
