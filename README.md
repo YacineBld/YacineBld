@@ -104,9 +104,6 @@ Curieux · Rigoureux · Autonome · Esprit d’équipe · Pédagogue · Adaptabl
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=YacineBld&show_icons=true&theme=radical)
 
-### 🏆 Langages principaux
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YacineBld&layout=compact&theme=radical)
 
 ---
 
